@@ -11,7 +11,7 @@ title:            GNA
 tagline:          'The GNA Project'
 description:      'The Geographic Network Analysis Project'
 url:              http://joaoponceleao.github.io/GNA_public/
-baseurl:          /GNA_public
+baseurl:          http://joaoponceleao.github.io/GNA_public/
 
 author:
   name:           'João Ponce de Leão'
