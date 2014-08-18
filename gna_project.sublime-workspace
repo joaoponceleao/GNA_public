@@ -676,12 +676,12 @@
 	},
 	"file_history":
 	[
+		"/Users/joao/Dev/GNA_Repo/gna_project/gna_project/settings/base.py",
 		"/Users/joao/Dev/GNA_Repo/requirements/base.txt",
 		"/Users/joao/Dev/GNA_Repo/requirements/base",
 		"/Users/joao/Dev/GNA_Repo/requirements.txt",
 		"/Users/joao/Dev/GNA_Repo/bower_components/normalize-css/bower.json",
 		"/Users/joao/Dev/GNA_Repo/bower.json",
-		"/Users/joao/Dev/GNA_Repo/gna_project/gna_project/settings/base.py",
 		"/Users/joao/Dev/GNA_Repo/gna_project/api/__init__.py",
 		"/Users/joao/Dev/GNA_Repo/gna_project/api/views.py",
 		"/Users/joao/Dev/GNA_Repo/gna_project/api/utils.py",
@@ -983,7 +983,7 @@
 	{
 		"height": 0.0
 	},
-	"project": "GNA_public.sublime-project",
+	"project": "gna_project.sublime-project",
 	"replace":
 	{
 		"height": 44.0

@@ -4,27 +4,44 @@ title: About
 ---
 
 <p class="message">
-  The GNA (Geographic Network Analysis) Project
+  Work in Progress
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+The Geographic Network Analysis Project
 
-There are currently two themes built on Poole:
+## Technology
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+The GNA Project takes advantage of various open-source projects, primarily:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* [PostgreSQL](http://www.postgresql.org)
+* [PostGIS](http://postgis.net)
+* [Python](https://www.python.org)
+* [Django & GeoDjango](https://www.djangoproject.com)
+* Geospatial libraries
+    * [GEOS](http://trac.osgeo.org/geos/)
+    * [GDAL](http://www.gdal.org)
+    * [geopy](https://github.com/geopy/geopy)
+* Python libraries
+    * [django-rest-framework](http://www.django-rest-framework.org)
+    * [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis)
+    * [django-mptt](https://github.com/django-mptt/django-mptt/)
+    * [django-nvd3](https://github.com/areski/django-nvd3)
+    * [Pillow](http://python-pillow.github.io)
+    * [python-nvd3](https://github.com/areski/python-nvd3)
+    * [psycopg2](http://initd.org/psycopg/)
+* [Leaflet](http://leafletjs.com)
+* [Leaflet.draw](https://github.com/Leaflet/Leaflet.draw)
+* [jQuery](http://jquery.com)
 
-## Setup
+## Acknowledgments
 
-Some fun facts about the setup of this project include:
+The project has benefited from the open-source community and the works of others.
+It has either implemented, based parts of its code on, or simply taken inspiration from the following projects:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* Several open-source projects by [Makina Corpus](http://makina-corpus.com)
+* The [GeoNode project](http://geonode.org)
+* The RENCI (Renaissance Computing Institute) [Geoanalytics Platform](http://renci.org/research/geoanalytics-framework/)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to [ask me on Twitter](https://twitter.com/ponceleao).
 
 Thanks for reading!

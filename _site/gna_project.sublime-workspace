@@ -1,0 +1,1028 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"poi",
+				"PointField"
+			],
+			[
+				"poly",
+				"Polygon	class"
+			],
+			[
+				"geos",
+				"GEOSException	class"
+			],
+			[
+				"gna",
+				"gnaLayer"
+			],
+			[
+				"def",
+				"defaultStyle"
+			],
+			[
+				"rule",
+				"ruleStyle"
+			],
+			[
+				"feature",
+				"featureOverlay"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"Zoom",
+				"ZoomSlider"
+			],
+			[
+				"gnaz",
+				"gnaZoomSlider"
+			],
+			[
+				"re",
+				"resolution"
+			],
+			[
+				"gnaS",
+				"gnaStyle"
+			],
+			[
+				"sty",
+				"styleCache"
+			],
+			[
+				"res",
+				"resolution"
+			],
+			[
+				"S",
+				"Style"
+			],
+			[
+				"loa",
+				"loadingstrategy"
+			],
+			[
+				"St",
+				"Stroke"
+			],
+			[
+				"base",
+				"baseLayer"
+			],
+			[
+				"la",
+				"layers"
+			],
+			[
+				"style",
+				"styleCache"
+			],
+			[
+				"pro",
+				"projection"
+			],
+			[
+				"b",
+				"bbox_filter"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"add",
+				"addLayer"
+			],
+			[
+				"dr",
+				"drawnItems"
+			],
+			[
+				"geom",
+				"geometry"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"unit",
+				"unitForm"
+			],
+			[
+				"cre",
+				"createJSON"
+			],
+			[
+				"for",
+				"formfields"
+			],
+			[
+				"form",
+				"formdata"
+			],
+			[
+				"ser",
+				"serialize"
+			],
+			[
+				"un",
+				"unitForm"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"te",
+				"tempPost"
+			],
+			[
+				"ne",
+				"newData"
+			],
+			[
+				"find",
+				"find_packages	statement"
+			],
+			[
+				"Re",
+				"RequireAuthAjax	class"
+			],
+			[
+				"me",
+				"method_decorator	function"
+			],
+			[
+				"htt",
+				"HttpResponse	class"
+			],
+			[
+				"AP",
+				"API_ERROR_RECORD_NOT_FOUND"
+			],
+			[
+				"err",
+				"errorcode"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"con",
+				"content_type"
+			],
+			[
+				"view",
+				"view_func	param"
+			],
+			[
+				"get",
+				"get_object_or_json404	function"
+			],
+			[
+				"ut",
+				"utils"
+			],
+			[
+				"ren",
+				"render_to_json_response	function"
+			],
+			[
+				"tim",
+				"timezone	import"
+			],
+			[
+				"_",
+				"__init__"
+			],
+			[
+				"conte",
+				"context	statement"
+			],
+			[
+				"rend",
+				"render_to_json_response"
+			],
+			[
+				"cont",
+				"context	get_context_data"
+			],
+			[
+				"respo",
+				"response_class	statement"
+			],
+			[
+				"respons",
+				"response_kwargs	param"
+			],
+			[
+				"H",
+				"HttpResponse	class"
+			],
+			[
+				"respon",
+				"response"
+			],
+			[
+				"o",
+				"object	class"
+			],
+			[
+				"Ci",
+				"circleMarker"
+			],
+			[
+				"to",
+				"toGeoJSON"
+			],
+			[
+				"cl",
+				"clearLayers"
+			],
+			[
+				"h",
+				"HttpResponse	class"
+			],
+			[
+				"seriali",
+				"serializer	statement"
+			],
+			[
+				"serializer",
+				"serializer_class"
+			],
+			[
+				"layer",
+				"layerType"
+			],
+			[
+				"draw",
+				"drawnItems"
+			],
+			[
+				"dra",
+				"drawnItems"
+			],
+			[
+				"fea",
+				"featureGroup"
+			],
+			[
+				"gn",
+				"gnaLayer"
+			],
+			[
+				"Feat",
+				"featureGroup"
+			],
+			[
+				"geome",
+				"geometryToLayer"
+			],
+			[
+				"fe",
+				"featureID"
+			],
+			[
+				"Mod",
+				"ModelForm	class"
+			],
+			[
+				"ge",
+				"geometry"
+			],
+			[
+				"get_o",
+				"get_object_or_404	function"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"suc",
+				"success_url	statement"
+			],
+			[
+				"succ",
+				"success_url"
+			],
+			[
+				"uni",
+				"unit_edit_form"
+			],
+			[
+				"render",
+				"render_crispy_form	function"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"PO",
+				"POST"
+			],
+			[
+				"json",
+				"json_view	function"
+			],
+			[
+				"jso",
+				"json_view	function"
+			],
+			[
+				"Li",
+				"ListView	class"
+			],
+			[
+				"get_",
+				"get_context_data"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"data",
+				"datatype"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"Tab",
+				"TabHolder	class"
+			],
+			[
+				"Fi",
+				"Field	class"
+			],
+			[
+				"Bu",
+				"Button	class"
+			],
+			[
+				"Form",
+				"FormActions	class"
+			],
+			[
+				"str",
+				"street_no"
+			],
+			[
+				"But",
+				"ButtonHolder	class"
+			],
+			[
+				"Fie",
+				"Fieldset	class"
+			],
+			[
+				"field",
+				"field_class	statement"
+			],
+			[
+				"su",
+				"Submit	class"
+			],
+			[
+				"Fo",
+				"FormHelper	class"
+			],
+			[
+				"F",
+				"FormHelper	class"
+			],
+			[
+				"Uni",
+				"UnitEditForm2	class"
+			],
+			[
+				"HTT",
+				"HttpResponseRedirect	class"
+			],
+			[
+				"ht",
+				"HttpResponseRedirect	class"
+			],
+			[
+				"Model",
+				"ModelForm	ModelForm"
+			],
+			[
+				"input",
+				"inputform"
+			],
+			[
+				"widg",
+				"widgets"
+			],
+			[
+				"n",
+				"newUnit"
+			],
+			[
+				"init",
+				"initRegistration"
+			],
+			[
+				"template",
+				"template	module"
+			],
+			[
+				"Htt",
+				"HttpResponse	class"
+			],
+			[
+				"UnitE",
+				"UnitEditView	class"
+			],
+			[
+				"UnitEdi",
+				"UnitEditForm"
+			],
+			[
+				"Mo",
+				"ModelForm	ModelForm"
+			],
+			[
+				"rever",
+				"reverse_lazy	statement"
+			],
+			[
+				"form_cl",
+				"form_class_b	statement"
+			],
+			[
+				"get_form",
+				"get_form_class	function"
+			],
+			[
+				"get_obj",
+				"get_object_or_404"
+			],
+			[
+				"vi",
+				"views	module"
+			],
+			[
+				"L",
+				"LayerGroup"
+			],
+			[
+				"rest",
+				"rest_framework_gis	module"
+			],
+			[
+				"Se",
+				"SerializerMethodField	class"
+			],
+			[
+				"List",
+				"ListCreateAPIView	class"
+			],
+			[
+				"Lis",
+				"ListCreateAPIView	class"
+			],
+			[
+				"UnitL",
+				"UnitListGeoJSON	class"
+			],
+			[
+				"Custom",
+				"CustomLeafletWidget	class"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Color Picker"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"gi",
+				"Git: Status"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax dj",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packag",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"dash",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"das",
+				"DashDoc: invoke Dash with selected word (flip syntax sensitivity)"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"pag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/joao/Dev/GNA_Repo/gna_project/gna_project/settings/base.py",
+		"/Users/joao/Dev/GNA_Repo/requirements/base.txt",
+		"/Users/joao/Dev/GNA_Repo/requirements/base",
+		"/Users/joao/Dev/GNA_Repo/requirements.txt",
+		"/Users/joao/Dev/GNA_Repo/bower_components/normalize-css/bower.json",
+		"/Users/joao/Dev/GNA_Repo/bower.json",
+		"/Users/joao/Dev/GNA_Repo/gna_project/api/__init__.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/api/views.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/api/utils.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/api/models.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/api/admin.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/api/tests.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/urls.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/gna_project/urls.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/templates/tables.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/templates/sb_admin/tables.html",
+		"/Users/joao/.Trash/tables.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/gna_olmap.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/templates/base.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/api/serializers.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/models.py",
+		"/Users/joao/Dev/GNA_Repo/setup.py",
+		"/Users/joao/Dev/GNA_Repo/CHANGES.txt",
+		"/Users/joao/Dev/GNA_Repo/gna_project/assets/django_mptt_admin/django_mptt_admin.css",
+		"/Users/joao/Dev/GNA_Repo/directory_tree",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/unit_map-djleaflet.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/unit_map2.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/drafts.txt",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/forms.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/templates/base-djleaflet.html",
+		"/Users/joao/.vimrc",
+		"/Users/joao/.mackup.cfg",
+		"/Users/joao/Dev/GNA_Repo/gna_project/templates/widgets/gna_leaflet.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/unit_map.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/templates/base2.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/old/unit_edit.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/templates/widgets/gna_leaflet-original.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/unit_add.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/unit_form.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/unit_list.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/unit_edit.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/original-unit_edit.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/unit_edit_form.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/unit_edit_form_success.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/unit_list_map.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/gna_project/settings/dev.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/static/js/unit_edit.js",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/unit_list2.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/unit_create_form.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/serializers.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/templates/sb_admin/index.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/templates/dashboard.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/templates/maps.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/templates/base-original.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/insert_user.php",
+		"/Users/joao/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 4/.htaccess",
+		"/Users/joao/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 5/.htaccess",
+		"/Users/joao/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder/.htaccess",
+		"/Users/joao/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 3/.htaccess",
+		"/Users/joao/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 2/.htaccess",
+		"/Users/joao/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 1/.htaccess",
+		"/Users/joao/Dev/GNA_Repo/gna_project/leaflet/static/leaflet/leaflet.forms.js",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/static/js/unit_edit4.js",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/static/js/unit_edit3.js",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/static/js/unit_edit2.js",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/static/js/unit_add.js",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/views.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/static/js/units_Lmap-original2.js",
+		"/Users/joao/Dev/GNA_Repo/gna_project/gna_storage/views.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/static/js/units_Lmap.js",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/static/js/units_Lmap-original.js",
+		"/Users/joao/Dev/GNA_Repo/gna_project/templates/umap/home.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/gna_storage/urls.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/templates/umap/content.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/templates/umap/navigation.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/templates/umap/search_bar.html",
+		"/Users/joao/Dev/GNA_Repo/.gitignore",
+		"/Users/joao/Dev/GNA_Repo/gna_project/static/js/leaflet.draw.js",
+		"/Users/joao/Downloads/nicar12maptricks/index.html",
+		"/Users/joao/Downloads/nicar12maptricks/earthquakeData.json",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/static/js/units_Lmap",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/edit_unit2.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/form.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/static/js/leaflet_units.js",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/unit_delete.html",
+		"/Users/joao/Dev/GNA_Repo/gna_project/taxonomy/models.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/taxonomy/admin.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/metadata/models.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/templates/units/unit_detail.html",
+		"/usr/local/opt/pyenv/versions/gna/lib/python2.7/site-packages/geopy/geocoders/__init__.py",
+		"/usr/local/opt/pyenv/versions/gna/lib/python2.7/site-packages/geopy/geocoders/bing.py",
+		"/usr/local/opt/pyenv/versions/gna/lib/python2.7/site-packages/geopy/__init__.py",
+		"/usr/local/opt/pyenv/versions/2.7.7/Python.framework/Versions/2.7/lib/python2.7/urllib2.py",
+		"/Users/joao/Dev/GNA_Repo/gna_project/taxonomy/fixtures/populate_data.json",
+		"/Users/joao/Dev/GNA_Repo/gna_project/taxonomy/populate_data.json",
+		"/Users/joao/Dev/GNA_Repo/gna_project/project_tree",
+		"/usr/local/opt/pyenv/versions/gna/lib/python2.7/site-packages/geopy/geocoders/googlev3.py",
+		"/usr/local/opt/pyenv/versions/gna/lib/python2.7/site-packages/pygeocoder.py",
+		"/Users/joao/Downloads/LaTeX.bibstyle",
+		"/usr/local/opt/pyenv/versions/gna/lib/python2.7/site-packages/django/contrib/gis/db/__init__.py",
+		"/usr/local/opt/pyenv/versions/gna/lib/python2.7/site-packages/django/contrib/gis/__init__.py",
+		"/usr/local/opt/pyenv/versions/gna/lib/python2.7/site-packages/django/contrib/gis/db/models/__init__.py",
+		"/Users/joao/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/joao/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/joao/Library/Application Support/Sublime Text 3/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/Users/joao/Dev/GNA_Repo/gna_project/taxonomy/GNA.sublime-project",
+		"/Users/joao/Dev/GNA_Repo/gna_project/units/admin.py",
+		"/Users/joao/Dev/GNA_Repo/GNA.sublime-project",
+		"/Users/joao/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/joao/.zpreztorc",
+		"/Users/joao/.zprezto/modules/prompt/functions/prompt_jp_setup",
+		"/Users/joao/.zprezto/modules/prompt/prompt_jp_setup",
+		"/Users/joao/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/joao/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/joao/.zprezto/modules/prompt/functions/prompt_custom_setup",
+		"/Users/joao/.zprezto/modules/prompt/functions/prompt_minimal_setup",
+		"/Users/joao/.zshrc",
+		"/Users/joao/Dev/GNA_Repo/Environment setup",
+		"/Users/joao/.zprezto",
+		"/Users/joao/Dev/Tools/mackup/CHANGELOG.md",
+		"/Users/joao/Dev/Tools/mackup/mackup/applications/prezto.cfg",
+		"/Users/joao/Dev/Tools/mackup/mackup/applications/zsh.cfg",
+		"/Users/joao/Dropbox/Mackup/.zprofile",
+		"/Users/joao/Dropbox/Mackup/.zpreztorc",
+		"/Users/joao/Dropbox/Mackup/.zlogout",
+		"/Users/joao/Dropbox/Mackup/.zlogin",
+		"/Users/joao/Dev/Tools/mackup/README.md",
+		"/Users/joao/Dev/Tools/mackup/mackup/applications/oh-my-zsh.cfg"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"apiviews",
+			"geom",
+			"navbar",
+			"top",
+			"1",
+			"unitForm",
+			"gisF",
+			"static",
+			"GnaM",
+			"circle",
+			"_editionLayer",
+			"drawnItems",
+			"jsonunits",
+			"newUnit",
+			"new",
+			"gnaL",
+			"json",
+			"gnaLayer",
+			"list",
+			"gnaLayer",
+			"newUnit",
+			"form",
+			"data",
+			"detail",
+			"list",
+			"API",
+			"url",
+			"unit",
+			"csrf",
+			"unitsne",
+			"create",
+			"new",
+			"edit",
+			"2",
+			"1",
+			"task_form_title",
+			"container",
+			"form",
+			"gna",
+			"insert",
+			"users",
+			"evt",
+			"click",
+			"marker",
+			"click",
+			"registr",
+			"LOCATION",
+			"user",
+			"newUser",
+			".leaflet-container",
+			"page",
+			"dash",
+			"point",
+			"CustomLeafletWidget",
+			"UnitForm",
+			"drawnItems",
+			"forms",
+			"UnitView",
+			"shortquery",
+			"editableLayers",
+			"EditUnitForm",
+			"UnitForm",
+			"UpdateUnitView",
+			"geoloca",
+			"geocoder",
+			"GeocoderQueryError",
+			"value",
+			"taxonomy.taxonomy",
+			"json",
+			"line",
+			"drslump",
+			"auto_compl",
+			"Prezto",
+			"png",
+			"#",
+			"##",
+			"base",
+			"UnitLocation",
+			"GCD",
+			"shared",
+			"Unit",
+			"CommunityLocation",
+			"│   ├── admin.py\n",
+			" exceeds filelimit, not opening dir",
+			".pyc",
+			"│   │   ├── dev.pyc\n",
+			" exceeds filelimit, not opening dir",
+			".Map",
+			"geodjango",
+			".Map",
+			"7",
+			"div",
+			"Layers",
+			"base la",
+			"add",
+			"TextA",
+			"ModelF",
+			"css",
+			"base"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"taxonomy.branch",
+			"<"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.anaconda_documentation":
+	{
+		"height": 104.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "gna_project.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

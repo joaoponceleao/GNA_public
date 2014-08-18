@@ -1,19 +1,25 @@
 # Dependencies
-markdown:         redcarpet
-pygments:         true
+markdown:   kramdown
+highlighter:    pygments
 
 # Permalinks
-relative_permalinks: false
-permalink:        pretty
+relative_permalinks:    false
+permalink:  pretty
 
 # Setup
-title:            GNA
-tagline:          'The GNA Project'
-description:      'The Geographic Network Analysis Project'
-baseurl:          /GNA_public
+title:  GNA
+tagline:    'The Geographic Network Analysis Project'
+description:    'The GNA Project'
+baseurl:    /gna_project
 
 author:
-  name:           'João Ponce de Leão'
-  url:            https://ponceleao.com
+  name: 'João Ponce de Leão'
+  url:  http://ponceleao.com
 
 paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:
