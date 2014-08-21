@@ -1,100 +1,102 @@
-# Lanyon
+# The GNA Project
+---
+
+The GNA (Geographic Network Analysis) Project.
+
+## Technology
+---
+
+The GNA Project takes advantage of various open-source projects, primarily:
+
+* [PostgreSQL](http://www.postgresql.org)
+* [PostGIS](http://postgis.net)
+* [Django & GeoDjango](https://www.djangoproject.com)
+* [Python](https://www.python.org)
+* Geospatial libraries
+    * [GEOS](http://trac.osgeo.org/geos/)
+    * [GDAL](http://www.gdal.org)
+    * [geopy](https://github.com/geopy/geopy)
+* Python libraries
+    * [django-rest-framework](http://www.django-rest-framework.org)
+    * [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis)
+    * [django-mptt](https://github.com/django-mptt/django-mptt/)
+    * [django-nvd3](https://github.com/areski/django-nvd3)
+    * [Pillow](http://python-pillow.github.io)
+    * [python-nvd3](https://github.com/areski/python-nvd3)
+    * [psycopg2](http://initd.org/psycopg/)
+* [Leaflet](http://leafletjs.com)
+* [Leaflet.draw](https://github.com/Leaflet/Leaflet.draw)
+* [jQuery](http://jquery.com)
+
+## Acknowledgments
+---
+
+The project has benefited from the open-source community and the works of others.
+It has either implemented, based parts of its code on, or simply taken inspiration from the following projects:
+
+* Several open-source projects by [Makina Corpus](http://makina-corpus.com)
+* The [GeoNode project](http://geonode.org)
+* The RENCI (Renaissance Computing Institute) [Geoanalytics Platform](http://renci.org/research/geoanalytics-framework/)
+
+## Changes
+---
+
+* v0.0.2, 18/08/2014 -- Initial alpha release.
+    - Implemented release cycle numbering.
+    - Released .core module
+        + Added API and utilities in .core
+        + Added Django Rest Framework for building API
+        + Added DRF-GIS for geojson support in API
+        + Confirmed API support for future release of ol3.js
+    - Released .units module
+        + Added geocoding and reverse geocoding through geopy
+        + Started implementing exceptions
+        + Added geos.centroid for calculating locations
+    - Initial release of .taxonomy module
+        + Added initial fixtures
+    - Initial release of .metadata module
+        + Added Primary Data and Conditions.choices
+    - Project-wide:
+        + Added AJAX in mapping views
+        + Added Django Bower for managing /components/bower_components
+        + Added Crispy Forms for managing Bootstrap 3
+        + Added Leaflet.js and Leaflet.draw for mapping
+    - Miscellaneous
+        + Initial release of vagrant settings
+        + Cleaned up directory structure and some code
+        + Cleaned up python requirements
+
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
-![Lanyon](https://f.cloud.github.com/assets/98681/1825266/be03f014-71b0-11e3-9539-876e61530e24.png)
-![Lanyon with open sidebar](https://f.cloud.github.com/assets/98681/1825267/be04a914-71b0-11e3-966f-8afe9894c729.png)
+### Built on Poole
 
+Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
 
-## Contents
+* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
+* Mobile friendly design and development
+* Easily scalable text and component sizing with `rem` units in the CSS
+* Support for a wide gamut of HTML elements
+* Related posts (time-based, because Jekyll) below each post
+* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
 
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+### Lanyon features
 
+In addition to the features of Poole, Lanyon adds the following:
 
-## Usage
+* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
+* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
+* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
+* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
 
-Lanyon is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
+[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
 
+### Browser support
 
-## Options
+Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
 
-Lanyon includes some customizable options, typically applied via classes on the `<body>` element.
+### Download
 
+Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
 
-### Sidebar menu
-
-Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
-
-```
----
-layout: page
-title: About
----
-```
-
-**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
-
-
-### Themes
-
-Lanyon ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
-
-![Lanyon with red theme](https://f.cloud.github.com/assets/98681/1825270/be065110-71b0-11e3-9ed8-9b8de753a4af.png)
-![Lanyon with red theme and open sidebar](https://f.cloud.github.com/assets/98681/1825269/be05ec20-71b0-11e3-91ea-a9138ef07186.png)
-
-There are eight themes available at this time.
-
-![Available theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
-
-To use a theme, add any one of the available theme classes to the `<body>` element in the `default.html` layout, like so:
-
-```html
-<body class="theme-base-08">
-  ...
-</body>
-```
-
-To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/lanyon/blob/master/public/css/lanyon.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
-
-
-### Reverse layout
-
-![Lanyon with reverse layout](https://f.cloud.github.com/assets/98681/1825265/be03f2e4-71b0-11e3-89f1-360705524495.png)
-![Lanyon with reverse layout and open sidebar](https://f.cloud.github.com/assets/98681/1825268/be056174-71b0-11e3-88c8-5055bca4307f.png)
-
-Reverse the page orientation with a single class.
-
-```html
-<body class="layout-reverse">
-  ...
-</body>
-```
-
-
-## Development
-
-Lanyon has two branches, but only one is used for active development.
-
-- `master` for development.  **All pull requests should be to submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
-
-
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
-
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+Thanks!
